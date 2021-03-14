@@ -1,5 +1,4 @@
 Reproducible Research: Peer Assessment 2
-==========================================
 
 ## Impact of Severe Weather Events on Public Health and Economy in the United States
 
